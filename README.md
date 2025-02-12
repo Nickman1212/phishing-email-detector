@@ -6,5 +6,4 @@ A machine learning-based phishing email detector built with Python, Flask, and S
 - Easy web-based input via Flask
 - Simple and intuitive UI
 
-## Setup
-1. Clone the repository:
+
